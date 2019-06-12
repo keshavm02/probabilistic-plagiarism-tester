@@ -1,0 +1,99 @@
+The right to own a Gun
+
+
+ABSTRACT: This essay claims that there is a right to own a gun through arguments that were either not addressed in detail or not addressed at all by Michael Huemer in his paper- “Is There a Right to Own a Gun?” The thesis of this paper primarily develops the following issues in detail:
+-	The right of self-defense is a fundamental right and not derivative from the right to physical security, thus the right to own a gun is derived from the right of self-defense. 
+-	I further argue that even after assuming the right of self-defense is derivative from the right to physical security, the prohibition or restriction of guns is unjustified. 
+-	The fault in the utilitarian perspective towards gun prohibition. 
+-	Does the state have a right to prohibit guns regardless of whether the harms of gun ownership are significant?
+
+
+
+Introduction:
+
+Debates about gun ownership often divert into debates about the kinds of firearms that should be allowed. For the sake of my argument, I am going to simply talk about hand guns as a means of self-defense. For further clarity, I am also not debating whether gun ownership leads to a higher crime rate, but whether the right to own a gun can be violated due to a high crime rate and several other factors that will be discussed. My argument is also based on the central claim that it is an important prima facie right to own a gun, and the right to security does not support gun prohibition, even if the right to self-defense is derivative from the right to physical security. As philosopher Michael Huemer rightly points out in his essay about gun rights- The harms of gun ownership “would have to be many times greater than the benefits in order for the right to own a gun to be overridden.” (page 297)
+
+
+
+Competing rights:
+
+Jeff McMahan, a utilitarian philosopher who is also a gun-prohibition advocate, argues that the right to self-defense is derivative from the right to security in his paper- “A Challenge to Gun Rights”.
+
+The right to self-defense enables an individual to practice self-defense against an attacker and is quite self-explanatory in this sense. However, for the right of physical security to exist fundamentally, it entails that individuals would be rightfully entitled to flawless physical security provided by their state, the likeliness of which is negligibly low since the state security (police, guards, army) cannot always present itself at a life-threatening situation fast enough to prevent a potential murder. Some would argue that we have a right to healthcare, but fewer think we have a right to the very best healthcare available on the market. However, the right to healthcare is not a fundamental right, and is derivative from the fundamental right to health. This is the same as arguing that we should have the very best weapon for self-defense, perhaps grenades or even nuclear missiles. But clearly that is not true since the right of self-defense is fundamental but the right to defend ourselves with a grenade in not fundamental, even though a certain privileged section of the population (military) is permitted to do so. Going back to the comparison, that privileged section for the best healthcare example includes the rich individuals who can afford the best healthcare, but the rest can seek their right to healthcare even though it might not be the best. 
+
+
+McMahan’s claim about the above was based on falsely employing a prison analogy where he compared the situation of prisoners with that of general citizens and concluded the right of self-defense is derivative from the right to physical security. He presented the following main arguments through his prison analogy:
+
+-	Armed prisoners are more likely to overpower prison guards. 
+Gun ownership in prisons would promote more crime and chaos. 
+Therefore, armed citizens would make police ineffective and promote more crime. 
+-	A prisoner cannot forfeit his right of self-defense against wrongful act. 
+-	If prisoners would be safer without guns than with guns,
+then citizens would be safer without guns than with guns.
+Therefore, the state does not violate self-defense rights by prohibiting guns because the right of self-defense is derived from the right to physical security. 
+
+There are several flaws in his analogy all of which I shall debunk below:
+
+1.	He makes the claim that prisoners with guns and no guards would be safer than prisoners with guards but no guns. This is seemingly true, but he then goes on to compare this to the outside world. He fails to recognize that the former statement is only true for prisoners because a major population of them are violent criminals who are much more likely to use a gun for criminal usage than for self-defense. 
+
+2.	He acknowledges the argument that criminals forfeit their rights to self-defense, and thus their right to own a gun. He then goes on to say- “yet no one can forfeit his right of self-defense against wrongful act.” He does not further explain the meaning of “wrongful act” and falsely assumes that prisoners have a complete right of self-defense when being attacked by another criminal. McMahan fails to understand that morally and under the law, individuals lose their right to use a weapon for self-defense as soon as they commit a crime and must rely on prison security guards or their own fists. 
+
+3.	Towards the end of his article, McMahan concludes that the state would not be violating the prisoners’ right of self-defense if their safety would be higher with just guards than it would be with just guns. Based on this, he thinks it is justified to confirm that the right of self-defense is derivative from the right to physical security. I argue that the state would not be violating the prisoners’ right to own a gun either way, because they do not possess that right anymore. Moreover, even if they did possess the right, guards over guns would be justified since a prison is a controlled environment where prisoners are under constant surveillance. This means prison guards can reach a victim of prison violence almost instantly. Regardless, giving prisoners access to guns would lead to mass murders and quite possibly even prison-breaks since guards can now be overpowered by the criminals. However, the same would not hold true for non-criminal citizens because neither would the state security be quick enough to reach in time and nor should these individuals be considered hostile against each other or the police. 
+
+The foundational premises of Jeff McMahan’s argument are based on completely false assumptions and expectations, thus proving the falsity of his conclusion about the nature of the right of self-defense as explained above. 
+
+
+
+The flaws in the utilitarian perspective:
+
+Gun control advocates often believe their claims are justified because banning guns would lead to a lower average crime rate. I strongly believe they are mistaken about assuming that gun prohibition would lead to lower crime rates. In 2013, the Crime Prevention and Research Center conducted a critical analysis of the crime rates before and after gun bans in countries like UK where guns were banned (ref: “Murder and Homicide Rates before and after Gun Bans”). They found that after the 1996 gun ban in Britain, “firearm homicide had almost doubled between 1996 and 2002. However, utilitarian philosophers like McMahan still argue that gun prohibition would lead to more lives saved than lost. I want to argue than even if we assume this is true, gun prohibition is still unjustified. 
+
+Let us consider the following example:
+Person A lives in a dangerous neighborhood where he witnesses gun shots and knife grapples often leading to murders. This morning, the newspaper is filled with breaking-news articles about the state finally banning guns completely. Person A is required to hand-over his hand-gun to the nearest state office by this afternoon, and being a law-abiding citizen, he does. A week passes, and for the argument’s sake, let us assume that national average crime rate has dropped by several percentage points and all the gun control advocates are celebrating the increase in the “average” safety. That night, person A is walking back to his home in the dangerous neighborhood, where suddenly he is approached by a masked mugger who demands a thousand dollars immediately, while placing Person A at gun-point, who does not have immediate access to the money and is shot in the head.
+
+The above thought experiment raises two important and often ignored concerns:
+
+1.	The individual safety of person A decreased by a much higher percentage than the average safety of the country increased after the ban. 
+
+2.	The criminal in the dangerous area still has a gun. 
+
+
+Since we now assume for the sake of argument that the right of self-defense is derived from the right to physical security, the utilitarian perspective would conclude that the ban was successful since the consequences resulted in a lower “average” crime rate. The right of self-defense of Person A was violated because of this, and hence I believe that most people (except utilitarian individuals) would agree that his individual right of self-defense is as important as the rights to physical security of the “average” individual. Hence, when looking from the individual perspective, important rights have been violated and it is not morally justifiable to sacrifice Person A’s life to save a few others. To appeal to the emotional sides of our morality, let us assume that Person A was walking home carrying his 1-year old baby, who was also shot during the incident, all as a result of the absence of a gun in Person A’s possession. As a helpful analogy, I think we can all agree that if enslaving 1 percent of the Americans makes the “average” citizens much better off, it still remains an extremely wrongful violation of the rights of those individuals who are enslaved. But the utilitarian perspective supports this violation of rights in the same way it supports gun prohibition. 
+
+Gun ban advocates often assume that a ban would result in the confiscation of guns from every single individual in society. The purpose of the ban would obviously be to lower crime rate. General citizens rarely commit any violent crimes at all, and so it is safe to assume that the state’s motive is to stop criminals from accessing guns. What ends up happening in real life is very counter-intuitive, since after the ban, all non-criminal citizens have lost access to guns which they would have used “only” for self-defense. But the criminals who would have used the guns for committing crimes, would not have to return guns because most of them bought guns from the black market in the first place. Even if they bought the guns legally, they would simply return their guns to the state and then seek illegal means of getting hold of guns, and it does not take much imagination to conclude that criminals can effortlessly and quickly initiate black market trading and organized crimes soon after a ban. The final consequences of the prohibition leave the non-criminal citizens defenseless and unintendedly make criminals have a monopoly in terms of gun possession, and as proven above, the state police cannot always act effectively enough to save as many lives as possession of guns would through self-defense. Hence, even if the right of self-defense is derived from the right to physical security, failure by the state to satisfy the right to physical security leads to the next best right- self-defense. 
+
+Even after understanding the faults in the utilitarian perspective, there are other arguments made by gun-control advocates. I think most of those arguments are valid, but they do not give the state the right to confiscate its citizens’ guns. The next section discusses these other arguments and whether the government has a justified right to prohibit guns. 
+
+
+
+Does the state have a right to prohibit guns?
+
+Advocates of gun prohibition primarily make the following points on why it is justified to ban guns. I am going to explain why none of the following claims give the state a right to take away guns from its citizens. 
+
+1.	Gun ownership leads to more harms than benefits
+
+Although my primary argument is not about disproving this claim, the harms of gun ownership are greatly exaggerated, and I have already disproven this claim through empirical evidence at the beginning of the section above- “The flaws in the utilitarian perspective”.
+
+Now, let us assume that gun ownership does lead to more harms than benefits. However, notice that we are still in agreement about the existence of benefits, even though they are lesser. This leads us to the same utilitarian argument we considered above, about whether the government can ban guns which would be morally significant to indirectly killing the individuals who died of crime but could have otherwise defended themselves with a gun. 
+
+Further, empirical evidence by National Center for Health Statistics shows there were 11.8 gun deaths every 100,000 people in the US in 2016. The death-rate by motor vehicles in the same year was 11.59 per 100,000 people in the US (NHTSA Traffic Safety Facts, page 16). It is clear that the number of gun deaths were almost equal to the number for motor vehicle deaths in 2016 in the US. This should raise the question of whether possession of motor vehicles should be prohibited since they are causing as many deaths in the US as guns are. 
+
+My point here is that even though there are many objects like vehicles that share the same harm-benefit ratio as guns, the state does not prohibit these objects. Thus, the state loses its right to prohibit guns until it decides to prohibit all objects with similar harm-benefit ratio. 
+
+2.	There are other effective self-defense objects
+
+This claim fails primarily because the state cannot decide whether a they should allow a knife or a gun or pepper spray as self-defense weapons. They simply do not have a strong enough reason to ban any of these, since all of these can aid self-defense. Hence, a woman walking on the road at night at the risk of getting raped might want to decide for herself whether she wants to use a knife, a gun or pepper spray against the perpetrator. As long as her weapon would not place others around her at direct risk of harm (for example, a grenade), the state cannot prohibit her from using a reasonable weapon of her choice, and since a gun is required to be aimed directly and causes damage to only the intended target, there is not a justifiable reason to prohibit it.
+
+Further, weapons like pepper spray and knives are not nearly as effective as guns are against criminals, even when the criminals do not commit assault with a gun. For instance, a muscular male criminal might be able to incapacitate a female who has a knife because firstly, a knife is not a long-range weapon and would have to work in direct contact. This makes it ineffective since a muscular criminal can almost always overpower an average individual who has a knife. Pepper sprays are as ineffective if not more. Guns inflict direct and severe damage even through a long-range, and this property of a gun is primarily used to instigate fear in the criminal, and not always to kill the criminal. 
+
+3.	Gun ownership leads to many accidental deaths
+
+Consider the following examples:
+
+Example 1:
+It is early in the morning, and Person A is sleeping in her room. Her 8-year-old son wakes up and grabs the keys to her car and turns the ignition on in the car. He further drives away onto the street, and unintendedly kills about a dozen people at the nearest crossing.
+
+Example 2:
+Person A lives in an apartment on the 30th floor of a residential building. He lights a candle and puts it by the bed, on the side desk. While reaching for his drink, he accidently topples over the candle onto the bed, which ends up in flames, further leading the furniture to catch fire. It takes the fire department five minutes to get there and another five minutes to reach the 30th floor and extinguish the flames from the exterior part of the building. By the time they reach inside to rescue the residents, about a dozen people, including children have died of the fire.
+
+Above, I have considered two examples about completely different objects causing accidental deaths. I chose these two examples because both include extremely common causes of death in the US. Now let us consider the same for guns. Guns cause dozens of accidental deaths in the US per year, many involve children as well. However, this situation is exactly similar to those in the above examples, hence I argue that if accidental deaths are reason enough to ban guns, then every object ranging from cars to candles and furniture should be banned by the state.
